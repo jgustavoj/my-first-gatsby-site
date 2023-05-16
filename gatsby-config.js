@@ -3,8 +3,9 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `My First Gatsby Site`,
-    siteUrl: `https://www.yourdomain.tld`,
+    title: `Gatsby Demo`,
+    siteUrl: `https://www.yourdomain.somewhere`,
+    description: `Gatsby Site Metadata Demo `
   },
   plugins: ["gatsby-plugin-image", "gatsby-plugin-sharp"],
 }
